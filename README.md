@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eslamelgourany
-- 👀 I’m interested in Data science and Machine learning.
+- 👀 I’m interested in Data science and Machine learning sciences.
 - 🌱 I’m currently learning Machine Learning and data analytics courses on Udacity.
-- 💞️ I’m looking working in Avast Software s.r.o in Prague, Czech Republic
+- 💞️ I’m currently working in Avast Software s.r.o in Prague, Czech Republic
 - 📫 You can reach me on my email address: eslamelgourany@hotmail.com
 
 <!---
