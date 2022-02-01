@@ -1,3 +1,9 @@
+
+<h1 align="center">Hi 👋, Welcome to my GitHub repo</h1>
+<h3 align="center"> Data Scientist | Robotics Engineer </h3>
+
+
+
 - 👋 Hi, I’m @eslamelgourany
 - 💻 Data Scientist | ML Engineer
 - 👀 I’m interested in Data science and Machine learning sciences.
@@ -5,14 +11,11 @@
 - 💞️ I’m currently working in Avast Software s.r.o in Prague, Czech Republic
 - 📫 You can reach me on my email address: eslamelgourany@hotmail.com
 
+
 <!---
 eslamelgourany/eslamelgourany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
 
 <p> <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
@@ -20,6 +23,16 @@ You can click the Preview link to take a look at your changes.
 <a href="https://opencv.org/" target="_blank"> <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s200/OpenCV_Logo.png" alt="OpenCV" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png" alt="Power BI" width="40" height="40"/> </a> 
 </p>
+
+
+[![Eslam Elgourany's github activity graph](https://activity-graph.herokuapp.com/graph?username=eslamelgourany&theme=xcode)](https://github.com/eslamelgourany/github-readme-activity-graph)
+
+<p align="center">
+  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=eslamelgourany&show_icons=true&locale=en&theme=radical" alt="EslamElgourany" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamelgourany&show_icons=true&locale=en&layout=compact&theme=radical" alt="EslamElgourany" />
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
