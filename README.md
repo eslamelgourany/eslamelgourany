@@ -20,3 +20,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://opencv.org/" target="_blank"> <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s200/OpenCV_Logo.png" alt="OpenCV" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png" alt="Power BI" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/eslam-elgourany-75b346111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eslam-elgourany-75b346111/" height="30" width="40" /></a>
+</p>
