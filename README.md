@@ -5,7 +5,7 @@
 
 
 - 👋 Hi, I’m @eslamelgourany
-- 💻 Data Scientist | ML Engineer
+- 💻 Data Scientist | MSc in Cybernetics and Robotics
 - 👀 I’m interested in Data science and Machine learning sciences.
 - 🌱 I’m currently learning Machine Learning and data analytics courses on Udacity.
 - 💞️ I’m currently working in Avast Software s.r.o in Prague, Czech Republic
